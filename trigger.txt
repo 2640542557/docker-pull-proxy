@@ -1,1 +1,1 @@
-java:8 registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/java:8
+redis:7.2.4  registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/redis:7.2.4
