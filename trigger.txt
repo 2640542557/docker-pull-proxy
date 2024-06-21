@@ -1,1 +1,1 @@
-redis:7.2.4  registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/redis:7.2.4
+18908046013/mysql:5.7.44 registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/mysql:5.7.44
