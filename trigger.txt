@@ -1,1 +1,1 @@
-18908046013/mysql:5.7.44 registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/mysql:5.7.44
+18908046013/mysql:5.7 registry.cn-hangzhou.aliyuncs.com/githubactionyqsh/mysql:5.7.44
