@@ -1,1 +1,1 @@
-centos:8.4.2105 registry.cn-hangzhou.aliyuncs.com/yqsh6013/centos:8.4.2105
+centos:7.9.2009 registry.cn-hangzhou.aliyuncs.com/yqsh6013/centos:7.9.2009
