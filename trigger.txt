@@ -1,1 +1,1 @@
-atmoz/sftp:latest registry.cn-hangzhou.aliyuncs.com/yqsh6013/atmoz_sftp:latest
+ubuntu:24.10 registry.cn-hangzhou.aliyuncs.com/yqsh6013/ubuntu:24.10
