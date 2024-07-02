@@ -1,1 +1,1 @@
-atmoz/sftp:latest registry.cn-hangzhou.aliyuncs.com/yqsh6013/atmoz/sftp:latest
+atmoz/sftp:latest registry.cn-hangzhou.aliyuncs.com/yqsh6013/atmoz_sftp:latest
