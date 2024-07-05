@@ -1,1 +1,1 @@
-ubuntu:24.10 registry.cn-hangzhou.aliyuncs.com/yqsh6013/ubuntu:24.10
+portainer/portainer-ce:2.20.3 registry.cn-hangzhou.aliyuncs.com/yqsh6013/portainer-ce:2.20.3
