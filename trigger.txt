@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.20.3 registry.cn-hangzhou.aliyuncs.com/yqsh6013/portainer-ce:2.20.3
+nginx:1.26.1 registry.cn-hangzhou.aliyuncs.com/yqsh6013/nginx:1.26.1
