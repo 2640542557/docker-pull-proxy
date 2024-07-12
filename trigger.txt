@@ -1,1 +1,1 @@
-nginx:1.26.1 registry.cn-hangzhou.aliyuncs.com/yqsh6013/nginx:1.26.1
+onlyoffice/documentserver:7.1.1 registry.cn-hangzhou.aliyuncs.com/yqsh6013/onlyoffice_documentserver:7.1.1
