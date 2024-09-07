@@ -1,1 +1,1 @@
-onlyoffice/documentserver:7.1.1 registry.cn-hangzhou.aliyuncs.com/yqsh6013/onlyoffice_documentserver:7.1.1
+openjdk:8u102-jre registry.cn-hangzhou.aliyuncs.com/yqsh6013/openjdk:8u102-jre
