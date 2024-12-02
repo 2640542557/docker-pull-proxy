@@ -1,1 +1,1 @@
-openjdk:8u102-jre registry.cn-hangzhou.aliyuncs.com/yqsh6013/openjdk:8u102-jre
+mcr.microsoft.com/mssql/server:2022-latest registry.cn-hangzhou.aliyuncs.com/yqsh6013/sqlserver:2022-latest
