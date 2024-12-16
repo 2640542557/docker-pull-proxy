@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2022-latest registry.cn-hangzhou.aliyuncs.com/yqsh6013/sqlserver:2019-latest
+linzeyi/hivision_idphotos registry.cn-hangzhou.aliyuncs.com/yqsh6013/hivision_idphotos:latest
