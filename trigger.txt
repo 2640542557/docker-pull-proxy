@@ -1,1 +1,1 @@
-nginx:1.28.0 docker pull registry.cn-hangzhou.aliyuncs.com/yqsh6013/nginx:1.28.0
+nginx:1.28.0 registry.cn-hangzhou.aliyuncs.com/yqsh6013/nginx:1.28.0
