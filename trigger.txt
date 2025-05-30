@@ -1,1 +1,1 @@
-nginx:1.28.0 registry.cn-hangzhou.aliyuncs.com/yqsh6013/nginx:1.28.0
+mysql:8.0.42 registry.cn-hangzhou.aliyuncs.com/yqsh6013/mysql8:8.0.42
