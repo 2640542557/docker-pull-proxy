@@ -1,1 +1,1 @@
-mysql:8.0.42 registry.cn-hangzhou.aliyuncs.com/yqsh6013/mysql8:8.0.42
+mysql:8.0.45 registry.cn-hangzhou.aliyuncs.com/yqsh6013/mysql8:8.0.45
